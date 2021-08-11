@@ -11,9 +11,7 @@ javac *.java
 java Main
 ```
 
-Authors:
-Shagufta Anjum
-
-Sneha Potluri
-
+Authors: <br>
+Shagufta Anjum <br>
+Sneha Potluri <br>
 Sahithi Jyosula
